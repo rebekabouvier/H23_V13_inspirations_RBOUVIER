@@ -51,3 +51,6 @@ Tout comme les projet précédants, je crois que le cours Audio 1 est important 
 Comme je n'avais aucune connaissance du cours de programmation interactive, j'ai dû faire quelques recherches à ce propos. Donc, ce cours permet aux élèves de découvrir comment la programmation d'oeuvres interactives ce fait à l'aide de l'algorithme. Tout cela dans le but que l'élève soit capable de créer une application simple et interactive.
 
 ### Ce que je crois ressentir durant ce projet
+Durant ce projet, je crois que je vais ressentir de la joie et de l'émerveillement, tout comme l'équipe désirait, car je trouve que cette oeuvre est très originale et remplis de belles couleurs me fesant pensé à un monde surréaliste et presque parfait. De plus, je crois que l'ajout sonore me donnera l'impression d'être dans ce monde. Par contre, je ne crois pas que je vais apprécier le fait que cette oeuvre prend quatre personnes pour atteindre son plein potenciel, car je ne pourrais peut-être pas la voir comme elle le devrait, mais je trouve l'idée plutôt intéressante malgré le petit désavantage que cela crée.
+
+
