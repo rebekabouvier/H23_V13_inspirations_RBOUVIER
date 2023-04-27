@@ -41,4 +41,5 @@ Lors de l'expérimentation de ce projet je crois ressentire un sentiment calme e
 ### Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe
 pour référence vous pouvez visiter: https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
 Ce projet reflète la connexion entre nous, les êtres humains, et un écosystème hors de notre monde (un monde d'émrveillement). Celui-ci est supposé nous attirer vers lui afin d'en découvir plus à son sujet.
-
+### Installation en cours 
+Pour commencer, dans un grand espace se trouvera neuf colones illuminée, dont une plus grosses que les autres, qui réagirons à l'arrivée de plusieurs personnes jusqu'à un maximum de quatre personnes pour atteindre le but final. Ensuite c'est colones seront aussi munis de plantes sintétiques pour rappeler le thème de la nature ainsi que de hauts_parleurs pour émettre le son et la musique désiré.
