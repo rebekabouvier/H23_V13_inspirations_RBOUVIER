@@ -43,3 +43,7 @@ pour référence vous pouvez visiter: https://tim-montmorency.com/2023/projets/E
 Ce projet reflète la connexion entre nous, les êtres humains, et un écosystème hors de notre monde (un monde d'émrveillement). Celui-ci est supposé nous attirer vers lui afin d'en découvir plus à son sujet.
 ### Installation en cours 
 Pour commencer, dans un grand espace se trouvera neuf colones illuminée, dont une plus grosses que les autres, qui réagirons à l'arrivée de plusieurs personnes jusqu'à un maximum de quatre personnes pour atteindre le but final. Ensuite c'est colones seront aussi munis de plantes sintétiques pour rappeler le thème de la nature ainsi que de hauts_parleurs pour émettre le son et la musique désiré.
+
+
+### Les cours que je crois néssecaires pour la création ce projet
+Tout comme les projet précédants, je crois que le cours Audio 1 est important afin de créer le son et la musique recherher pour cette oeuvre. Ensuite, je crois que le cours de programmation interactive est très important pour la création de ce projet, car il requière une connaissance des oeuvres interactives et de comment les créées à l'aide de programmation. Finalement, je crois que le cours d'Oeuvres et dispositifs multimédias en exposition est plutôt pertinent, car les élèves ont besoin d'être capable de d'écrire et analyser leur oeuvre pour ensuite la documenter pour que nous, les visiteurs, soyont capables d'obtenir l'information nécessaire sur ce projet.
