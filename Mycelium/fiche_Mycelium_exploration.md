@@ -16,8 +16,8 @@ Ensuite je crois que le cours d'Illustration numérique est aussi essantiel, car
 
 Pour ce cours (Illustration) dont je connais absolument rien j'ai fait quelques recherches afin de touver de quoi il était vraiment question. Donc, pour commencer, c'est un cours qui consiste à traiter des images numériques et de développer ça créativité en manipulant et en transformant des images. Grâce à se cours les élèves peuvent apprendre à appliquer différentes méthodes de traitements d'images.
 
-### Ce que je crois ressentire lors de ce projet
-Durant cette création, je crois que je vais ressentire de la joie surtout, car cette installation est incroyable, mais aussi, car je crois qu'elle me fera penser à un vrai aquarium, mais beaucoup plus technologique avec une musique qui est relaxante nous donnant le temps d'admirer cet oeuvre ,ainsi que ces animaux marins présent. De plus, cette oeuvre nous donne le choix des animaux présent ce qui, pour moi, rend cette oeuvre spéciale pour moi.
+### Ce que je crois ressentir durant ce projet
+Durant cette création, je crois que je vais ressentir de la joie surtout, car cette installation est incroyable, mais aussi, car je crois qu'elle me fera penser à un vrai aquarium, mais beaucoup plus technologique avec une musique qui est relaxante nous donnant le temps d'admirer cet oeuvre ,ainsi que ces animaux marins présent. De plus, cette oeuvre nous donne le choix des animaux présent ce qui, pour moi, rend cette oeuvre spéciale pour moi.
 
 ## Nexum
 ### Réalisé par:
@@ -33,8 +33,8 @@ Encore une fois, je crois que le cours Audio 1 est très imortant afin de créer
 
 Comme je ne connaissais pas le cours des Domaines de Multimédias, j'ai établis quelques recherches qui m'ont amené à croire que ce cours sert à mieux connaitre le domaine du multimédias ainsi que de découvrir les avenues profésionelles que ce cours représente. Aussi, d'aider les élèves à mieux organiser les idées des élèves et d'exploiter la technologie qui les entoure.
 
-### Ce que je crois ressentire lors de ce projet
-Lors de l'expérimentation de ce projet je crois ressentire un sentiment calme et appaisant tout comme les créateurs cherchent à nous faire ressentire. Aussi, je crois que je vais apprécier cette création, car contrairement aux autres oeuvre nous pouvons nous déplacer pour plus adimrer la nature qui nous entoure sans avoir besoin de plusieurs personnes pour déclancher l'oeuvre et je crois que les vidéos que l'équipe à créée seront probablement très originales et représenteront un monde très beau.
+### Ce que je crois ressentir duant ce projet
+Lors de l'expérimentation de ce projet je crois ressentir un sentiment calme et appaisant tout comme les créateurs cherchent à nous faire ressentir. Aussi, je crois que je vais apprécier cette création, car contrairement aux autres oeuvre nous pouvons nous déplacer pour plus adimrer la nature qui nous entoure sans avoir besoin de plusieurs personnes pour déclancher l'oeuvre et je crois que les vidéos que l'équipe à créée seront probablement très originales et représenteront un monde très beau.
 
 ## Edira
 ### Réalisé par:
@@ -47,3 +47,7 @@ Pour commencer, dans un grand espace se trouvera neuf colones illuminée, dont u
 
 ### Les cours que je crois néssecaires pour la création ce projet
 Tout comme les projet précédants, je crois que le cours Audio 1 est important afin de créer le son et la musique recherher pour cette oeuvre. Ensuite, je crois que le cours de programmation interactive est très important pour la création de ce projet, car il requière une connaissance des oeuvres interactives et de comment les créées à l'aide de programmation. Finalement, je crois que le cours d'Oeuvres et dispositifs multimédias en exposition est plutôt pertinent, car les élèves ont besoin d'être capable de d'écrire et analyser leur oeuvre pour ensuite la documenter pour que nous, les visiteurs, soyont capables d'obtenir l'information nécessaire sur ce projet.
+
+Comme je n'avais aucune connaissance du cours de programmation interactive, j'ai dû faire quelques recherches à ce propos. Donc, ce cours permet aux élèves de découvrir comment la programmation d'oeuvres interactives ce fait à l'aide de l'algorithme. Tout cela dans le but que l'élève soit capable de créer une application simple et interactive.
+
+### Ce que je crois ressentir durant ce projet
