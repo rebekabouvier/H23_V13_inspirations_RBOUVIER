@@ -36,4 +36,9 @@ Comme je ne connaissais pas le cours des Domaines de Multimédias, j'ai établis
 ### Ce que je crois ressentire lors de ce projet
 Lors de l'expérimentation de ce projet je crois ressentire un sentiment calme et appaisant tout comme les créateurs cherchent à nous faire ressentire. Aussi, je crois que je vais apprécier cette création, car contrairement aux autres oeuvre nous pouvons nous déplacer pour plus adimrer la nature qui nous entoure sans avoir besoin de plusieurs personnes pour déclancher l'oeuvre et je crois que les vidéos que l'équipe à créée seront probablement très originales et représenteront un monde très beau.
 
+## Edira
+### Réalisé par:
+### Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe
+pour référence vous pouvez visiter: https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
+Ce projet reflète la connexion entre nous, les êtres humains, et un écosystème hors de notre monde (un monde d'émrveillement). Celui-ci est supposé nous attirer vers lui afin d'en découvir plus à son sujet.
 
