@@ -57,3 +57,8 @@ Durant ce projet, je crois que je vais ressentir de la joie et de l'émerveillem
 ## Luma Sol 
 ### Réalisé par:
 ### Éloise Gagné, Skayla Stimphil, Michael Simard et Pénélope Morrisson
+pour référence vous pouvez visiter: https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
+Ce projet, comme tout les autres, démontre la connexion entre la nature et l'être humain. Plus précisément, le projet veut démontrer l'importance que l'humain doit rester en contact avec la nature et surtout en raison du réchauffement climatique que nous vivons présentement.
+
+### Instalation en cours 
+Près d'un arbre illuminé, un vélo sura posé à notre disposition afin de faire réajirles lumières autour de nous. Celui-ci sera entourer de six batons lumineux ainsi que de deux hauts-parleurs pour émettre le son. De plus, l'équipe désire mettre des boules de lumière dans les buissons proche de l'arbre qui sera illuminé.
