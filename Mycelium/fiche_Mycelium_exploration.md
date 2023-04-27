@@ -34,5 +34,6 @@ Encore une fois, je crois que le cours Audio 1 est très imortant afin de créer
 Comme je ne connaissais pas le cours des Domaines de Multimédias, j'ai établis quelques recherches qui m'ont amené à croire que ce cours sert à mieux connaitre le domaine du multimédias ainsi que de découvrir les avenues profésionelles que ce cours représente. Aussi, d'aider les élèves à mieux organiser les idées des élèves et d'exploiter la technologie qui les entoure.
 
 ### Ce que je crois ressentire lors de ce projet
+Lors de l'expérimentation de ce projet je crois ressentire un sentiment calme et appaisant tout comme les créateurs cherchent à nous faire ressentire. Aussi, je crois que je vais apprécier cette création, car contrairement aux autres oeuvre nous pouvons nous déplacer pour plus adimrer la nature qui nous entoure sans avoir besoin de plusieurs personnes pour déclancher l'oeuvre et je crois que les vidéos que l'équipe à créée seront probablement très originales et représenteront un monde très beau.
 
 
