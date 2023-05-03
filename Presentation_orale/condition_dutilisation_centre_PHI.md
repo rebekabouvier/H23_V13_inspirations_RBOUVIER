@@ -16,6 +16,7 @@ C'est une oeuvre de projection vidéo à deux canaux HD en couleur. Elle est mun
 
 Je crois que cette oeuvre est très inspirante, car elle démontre des problèmes dans notre monde rendu complètement technologique et les sentiments que cela nous procure (inconfort,peur). Je trouve qu'il devrait y avoir plus d'oeuvre dans ce genre. Par contre, je n'en ai pas parlé plustôt, mais le personnage au début me fesait un peu peur à cause de son look, alors j'aurais peut-être changé cela plus la musique et je ne crois pas retenir cela pour mes propres oeuvres, mais sinon je crois que ce court film ma impressioné, car il y a tellement d'information qui est passé en peu de temps que ce soit par la voix de fond ou simplement par les images(je crois certainement retenir cela). Je crois que l'immersion de cette oeuvre était très bien réussit, car j'avait l'impression (c'est un peu bizarre ce que je vais dire) d'être une caméra qui obsère le personnage principale et qui entre dans sa vie privée. 
 
+### Ensemble des oeuvres
 Personnellement, je crois que le seul liens que toutes les oeuvres avaient en commun était vraiment le thème de la technologie, car je ne crois pas que toutes les oeuvres voulaient dénnocées quelque chose d'important ou du moins c'est ce que j'en ai pensé. De plus cette oeuvre était la seule à être immersive et elle était très à l'écart des autres. Comme quoi cette oeuvre est très exeptionnelle et originale.
 
 
