@@ -5,9 +5,12 @@
  
 Durant cette exposé oral, je présenterai une oeuvre que j'ai choisie et qui, je trouve, représente au mieux le sujet dont les créateurs de ces oeuvres ont choisis d'aborder.
 
+
+### Fondation PHI
+Plus précisément cette exposition a été présentée dans l'établissement de la fondation PHI. Cet établissement québécois est dédié à la présentations d'oeuvres contemporaines depuis 2007 et fondé par Phoebe Greenberg. J'ai ainsi visité celui-ci le 2 Avril 2023.
+
+
 ## The looks (2015) 
 ### Wu Tsang 
 C'est une oeuvre de projection vidéo à deux canaux HD en couleur.
-C'est une oeuvre contemplative et elle n'est pas permanente. Cette oeuvre est présentée au centre PHI jusqu'au 9 juillet. 
-
-Plus précisément cette exposition a été présentée dans l'établissement de la fondation PHI. Cet établissement québécois est dédié à la présentations d'oeuvres contemporaines depuis 2007 et fondé par Phoebe Greenberg. J'ai ainsi visité celui-ci le 2 Avril 2023.
+C'est une oeuvre contemplative et elle n'est pas permanente. Cette oeuvre est présentée au centre de la fondation PHI jusqu'au 9 juillet. 
