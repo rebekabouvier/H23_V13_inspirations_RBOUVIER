@@ -4,8 +4,7 @@
 
 ## Information sur l'exposition
 ### Affiche de l'exposition
-![affiche_dexposition].(Photo
-/GitHub_affiche_de_lexposition.jpeg)
+![affiche_dexposition].(Media/GitHub_photo_affiche_de_lexposition.png)
 
 
 
