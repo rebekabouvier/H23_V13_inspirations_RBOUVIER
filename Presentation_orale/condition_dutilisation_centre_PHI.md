@@ -1,5 +1,17 @@
-# Condition d'utilisation (Centre PHI)
+# Condition d'utilisation (fondation PHI)
 ### Une exposition à deux volets
+
+
+## Information sur l'exposition
+### Affiche de l'exposition
+
+
+
+
+
+
+
+
 
  Condition d'utilisation est une rassemblement de plusieurs oeuvres explorant l'impact de la technologie sur la définition, la construction et le cadrage des identités soit individuelles ou encore collective. Cette exposition aborde les différents sentiments que nous apporte la technologie de notre quotidien (cellulaires, ordinateurs, casque VR, etc). Le but de cette exposition était de nous remettre en question sur la technologie qui nous entoure. ( comment nous l'utilisons et comment elle nous utilise)
  
