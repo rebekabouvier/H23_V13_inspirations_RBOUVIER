@@ -4,8 +4,8 @@
 
 ## Information sur l'exposition
 ### Affiche de l'exposition
-!affiche_dexposition.()
-
+![affiche_dexposition].(Photo
+/GitHub_affiche_de_lexposition.jpeg)
 
 
 
