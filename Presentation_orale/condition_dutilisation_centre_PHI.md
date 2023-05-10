@@ -4,10 +4,22 @@
 
 ## Information sur l'exposition
 ### Affiche de l'exposition
-![affiche_dexposition].(Media/GitHub_photo_affiche_de_lexposition.png)
+
+![affiche_de_lexposition].(medias/GitHUb_affiche_de_lexposition.png)
+
+## Lieu d'exposition 
+
+465 rue Saint-Jean, Montréal Québec H2Y 2R5,
+Fondation PHI
 
 
+## Type d'exposition
+- exposition intérieur
+- exposition temporaire 
+- Du 9 Mars 2023 au 9 Juilllet 2023
+- interactive, contemplative et immersive
 
+### Établissement de la fondation PHI
 
 
 
