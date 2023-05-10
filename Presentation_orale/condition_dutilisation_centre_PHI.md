@@ -4,6 +4,8 @@
 
 ## Information sur l'exposition
 ### Affiche de l'exposition
+!(affiche_dexposition).(/Photo
+/affiche_de_lexposition.jpeg)
 
 
 
