@@ -5,7 +5,7 @@
 ## Information sur l'exposition
 ### Affiche de l'exposition
 
-![affiche_de_lexposition].(medias/GitHUb_affiche_de_lexposition.png)
+![affiche_de_lexposition].(medias/GitHub_affiche_de_lexposition.png)
 
 ## Lieu d'exposition 
 
@@ -19,10 +19,17 @@ Fondation PHI
 - Du 9 Mars 2023 au 9 Juilllet 2023
 - interactive, contemplative et immersive
 
-### Établissement de la fondation PHI
+## Établissement de la fondation PHI
+- l'exposition était sur deux établissement 
+- elle présente plus de 18 oeuvre en tout (de tout les types)
+- le premier établissement est sur quatre étages (11 oeuvres)
+- le deuxième établissement est sur un etage (7 oeuvres)
 
+Date de ma visite: 2 avril 2023
 
-
+## The looks 
+### Réalisé par Wu Tsang en 2015
+C'est un court film, à deux partie qui met en place une jeune personne. Tout d'abord cette personne fait une prestation de danse et de chant tout habillé de paillettes, ensuite, dans l'autre partie, on peut voir le lendemain de sa prestation. On y entend aussi une voix lui parlé et on voit le personnage fusionner avec son appareil intelligent. C'est comme si on assistait a sa vie privé et qu'on la regardait au travers des écrans.
 
 
 
@@ -31,15 +38,7 @@ Fondation PHI
 Durant cette exposé oral, je présenterai une oeuvre que j'ai choisie et qui, je trouve, représente au mieux le sujet dont les créateurs de ces oeuvres ont choisis d'aborder.
 
 
-### Fondation PHI
-Plus précisément cette exposition a été présentée dans l'établissement de la fondation PHI. Cet établissement québécois est dédié à la présentations d'oeuvres contemporaines depuis 2007 et fondé par Phoebe Greenberg. J'ai ainsi visité celui-ci le 2 Avril 2023.
 
-
-## The looks (2015) 
-### Wu Tsang 
-C'est une oeuvre de projection vidéo à deux canaux HD en couleur. Elle est munie de deux projecteur et de deux toiles blanches servant d'ecran, ainsi que de quatre haut-parleurs et quelques sièges dans une salle qui n'est pas écrlairée. C'est une oeuvre immersive et elle n'est pas permanente présentée au centre de la fondation PHI jusqu'au 9 juillet. Dans cette oeuvre on peut voir Wu Tsang mettant en scène un humain mixé avec la techonologie comme on peut le voir par ces yeux et dans sa manière de bouger. Ce court film représente la relation entre la musique et la performance comme on le vois dans la première vidéo et aussi selon moi, l'avancée de la technologie. Ce que je veux dire par l'avancée technologique c'est que cette personne ressemble à un être humain, mais elle complaitement absorbée par la technologie et aussi le fait que le personnage est entouré de celle-ci et elle est en quelque sorte comme nous. Dans cette oeuvre le personnage principal est très observé que se soit par les gens ou à travers la technologie ( la voix qui lui parle) et je crois que l'artiste à voulu dénoncé comment cela est détourné contre nous. Aussi je crois que le fait que son personnage soit connecter et complètement absorbé par cette technologie démontre le but de départ. C'est porquoi je pense que cette oeuvre représente le mieux l'impact que la technologie à sur nous et notre socité entière. Cette oeuvre me faisait un peu peur au début, car elle me donnait la peur d'être observer et peur que la technologie se rebelle contre nous, mais j'ai fini par croire que c'était peut-être le sentiment que l'artiste, Wu Tsang, cherchait. Pour ce qui est du coté de la musique et de la performance j'était impressioné par les belles couleurs et l'originalité de cette prestation. Par contre, j'aurais peut être choisi une autre musique, car, oui elle allait bien avec le personnage, mais je la trouvais agressante.
-
-Je crois que cette oeuvre est très inspirante, car elle démontre des problèmes dans notre monde rendu complètement technologique et les sentiments que cela nous procure (inconfort,peur). Je trouve qu'il devrait y avoir plus d'oeuvre dans ce genre. Par contre, je n'en ai pas parlé plustôt, mais le personnage au début me fesait un peu peur à cause de son look, alors j'aurais peut-être changé cela plus la musique et je ne crois pas retenir cela pour mes propres oeuvres, mais sinon je crois que ce court film ma impressioné, car il y a tellement d'information qui est passé en peu de temps que ce soit par la voix de fond ou simplement par les images(je crois certainement retenir cela). Je crois que l'immersion de cette oeuvre était très bien réussit, car j'avait l'impression (c'est un peu bizarre ce que je vais dire) d'être une caméra qui obsère le personnage principale et qui entre dans sa vie privée. 
 
 ### Ensemble des oeuvres
 Personnellement, je crois que le seul liens que toutes les oeuvres avaient en commun était vraiment le thème de la technologie, car je ne crois pas que toutes les oeuvres voulaient dénnocées quelque chose d'important ou du moins c'est ce que j'en ai pensé. De plus cette oeuvre était la seule à être immersive et elle était très à l'écart des autres. Comme quoi cette oeuvre est très exeptionnelle et originale.
