@@ -39,7 +39,9 @@ C'est une oeuvre contemplative qui se fait complètement dans le noir. C'est une
 - il n'y avait aucunes autres lumière 
 - système audio (hauts-parleurs) (pas très fort)
 
-### Ensemble des oeuvres
+## Expérience vécue 
+Au début, nous somme arrivé en retard, car le court film était deja commencé, donc j'ai eu de la difficulté a comprendre, mais après quelques recherches j'ai fini par comprendre. Ensuite, je trouves que lorsqu'on entre dans la salle on est dirrectement dirigé vers la première projection, mais le fait que le film soit en deux artie complique la tache puisqu'on se perd car, la première projection est derrière la deuxième, donc quand la première est fini on ne sait pas d'ou proviens la prochaine. Mis appart cela j'ai bien aimé l'oeuvre et le message qu'elle passait, malgré que le personnage me fesait un peu peur dans la première partie car, il n'a pas une apparence normale.
+## Ensemble des oeuvres
 Personnellement, je crois que le seul liens que toutes les oeuvres avaient en commun était vraiment le thème de la technologie, car je ne crois pas que toutes les oeuvres voulaient dénnocées quelque chose d'important ou du moins c'est ce que j'en ai pensé.
 
 Finallement, je crois que toutes les oeuvres avaient leurs places, mais parfois on avait de la difficulté à déterminé le message qu'elle voulais passée et j'en ai aimé pleins d'autres, comme par exemple: Mulan de Chun Hua et Catherine Dong qui était une rprésentation d'une jolie femme asiatique sous l'eau que l'on povait observer avec un casque virtuelle ou encore CyberPowPow de Nation to Nation qui était une oeuvre interactive qui démontrait des vieux ordinateurs dont on pouvant encore se servir et qui faisait des bruits et des jeux. Je trouve que toutes ces oeuvres étaient inspirantes et interessantes, car on pouvait non seulement découvrir les enjeux de la technologie, mais aussi découvrir d'enciennes oeuvres et leur évolution.
