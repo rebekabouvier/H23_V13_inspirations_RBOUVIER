@@ -1,6 +1,7 @@
 # Condition d'utilisation (fondation PHI)
 ### Une exposition à deux volets
-
+ Condition d'utilisation est une rassemblement de plusieurs oeuvres explorant l'impact de la technologie sur la définition, la construction et le cadrage des identités soit individuelles ou encore collective. Cette exposition aborde les différents sentiments que nous apporte la technologie de notre quotidien (cellulaires, ordinateurs, casque VR, etc). Le but de cette exposition était de nous remettre en question sur la technologie qui nous entoure. ( comment nous l'utilisons et comment elle nous utilise)
+ 
 
 ## Information sur l'exposition
 ### Affiche de l'exposition
@@ -29,19 +30,16 @@ Date de ma visite: 2 avril 2023
 
 ## The looks 
 ### Réalisé par Wu Tsang en 2015
-C'est un court film, à deux partie qui met en place une jeune personne. Tout d'abord cette personne fait une prestation de danse et de chant tout habillé de paillettes, ensuite, dans l'autre partie, on peut voir le lendemain de sa prestation. On y entend aussi une voix lui parlé et on voit le personnage fusionner avec son appareil intelligent. C'est comme si on assistait a sa vie privé et qu'on la regardait au travers des écrans.
+C'est un court film, à deux partie qui met en place une jeune personne. Tout d'abord cette personne fait une prestation de danse et de chant tout habillé de paillettes, ensuite, dans l'autre partie, on peut voir le lendemain de sa prestation. On y entend aussi une voix lui parlé et on voit le personnage fusionner avec son appareil intelligent. C'est comme si on assistait a sa vie privé et qu'on la regardait au travers des écrans comme si elle n'avait plus de vie privé et que tout le monde voyait ce qu'elle fesait et c,est aussi ce que Wu Tsang voulait dénoncer . Cette exposition était difficile à comprendre puisqu'on entendait pas très bien et elle était seulement en anglais.
 
-
-
- Condition d'utilisation est une rassemblement de plusieurs oeuvres explorant l'impact de la technologie sur la définition, la construction et le cadrage des identités soit individuelles ou encore collective. Cette exposition aborde les différents sentiments que nous apporte la technologie de notre quotidien (cellulaires, ordinateurs, casque VR, etc). Le but de cette exposition était de nous remettre en question sur la technologie qui nous entoure. ( comment nous l'utilisons et comment elle nous utilise)
- 
-Durant cette exposé oral, je présenterai une oeuvre que j'ai choisie et qui, je trouve, représente au mieux le sujet dont les créateurs de ces oeuvres ont choisis d'aborder.
-
-
-
+## Type d'installation (éléments, composante, mise en place)
+C'est une oeuvre contemplative qui se fait complètement dans le noir. C'est une cours films en deux parties qui de dure pas plus de cinq minutes chacunes. Il n'y avait pas de bancs
+- deux projecteurs 
+- deux toiles blanches qui servent d'écrans 
+- il n'y avait aucunes autres lumière 
+- système audio (hauts-parleurs) (pas très fort)
 
 ### Ensemble des oeuvres
-Personnellement, je crois que le seul liens que toutes les oeuvres avaient en commun était vraiment le thème de la technologie, car je ne crois pas que toutes les oeuvres voulaient dénnocées quelque chose d'important ou du moins c'est ce que j'en ai pensé. De plus cette oeuvre était la seule à être immersive et elle était très à l'écart des autres. Comme quoi cette oeuvre est très exeptionnelle et originale.
-
+Personnellement, je crois que le seul liens que toutes les oeuvres avaient en commun était vraiment le thème de la technologie, car je ne crois pas que toutes les oeuvres voulaient dénnocées quelque chose d'important ou du moins c'est ce que j'en ai pensé.
 
 Finallement, je crois que toutes les oeuvres avaient leurs places, mais parfois on avait de la difficulté à déterminé le message qu'elle voulais passée et j'en ai aimé pleins d'autres, comme par exemple: Mulan de Chun Hua et Catherine Dong qui était une rprésentation d'une jolie femme asiatique sous l'eau que l'on povait observer avec un casque virtuelle ou encore CyberPowPow de Nation to Nation qui était une oeuvre interactive qui démontrait des vieux ordinateurs dont on pouvant encore se servir et qui faisait des bruits et des jeux. Je trouve que toutes ces oeuvres étaient inspirantes et interessantes, car on pouvait non seulement découvrir les enjeux de la technologie, mais aussi découvrir d'enciennes oeuvres et leur évolution.
