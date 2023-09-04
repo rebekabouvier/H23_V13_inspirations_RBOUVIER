@@ -8,4 +8,4 @@ J'ai choisi la technique d'intégration au multimedias car l'informatique m'inte
 * Domaine de multimedias
 * Web
 
-J'aime beaucoup ces cours car chacun d'eux me permette deja d'apprendre de nouvelles choses dont je trouve très intéressentes. Aussi, j'adore la manière que chacun des profs nous apprendent la matière.
+J'aime beaucoup ces cours car chacun d'eux me permette deja d'apprendre de nouvelles choses dont je trouve très intéressentes. Aussi, j'adore la manière que chacun des profs nous apprendent la matière.😀
